@@ -12,7 +12,8 @@
 [How we are going to use all these things](#how-we-are-going-to-use-all-these-things)
 - [1. We will all tweet on a class hashtag (to be announced)](#1-we-will-all-tweet-on-a-class-hashtag-to-be-announced)
 - [2. We will all blog about the development of our research](#2-we-will-all-blog-about-the-development-of-our-research)
-- [3. If you think you can neglect this and just accept the hit to your grade, here is why you are wrong](#3-if-you-think-you-can-neglect-this-and-just-accept-the-hit-to-your-grade-here-is-why-you-are-wrong)
+- [3. If you think you can neglect this and just accept the hit to your grade, here is why you are wrong](#3-if-you-think-you-can-neglect-this-and-just-accept-the-hit-to-your-grade-here-is-why-you-are-wrong)   
+
 [Why? A final note for the still skeptical](#why-a-final-note-for-the-still skeptical)
 
 
