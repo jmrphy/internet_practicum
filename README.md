@@ -29,7 +29,7 @@ This document provides very fine detail for those who like that, but don't be mi
     - A twitter account
     - A twitter client
     - An RSS reader
-    
+
 If you don't know what these things are, don't worry! They're all easy to learn and use, and will make your life *easier* and *more powerful* after just a little bit of investment up front. A blog and a twitter account are quickly becoming absolute requirements for anyone who still wishes to have a voice in society; a twitter client and an RSS reader are indispensible for actually learning from the web.
 
 The course itself will be run with these tools. It's simple: Everything you do toward your research for this course, just do it on your blog and your twitter account! Using our twitter clients and RSS feeds, we'll also be following along with everyone else's progress, and you'll be asked to give each other support and feedback in blog comments and twitter replies. As we go, your progress will be tracked and assessed, and at the end your entire web output will be assessed alongside the more specific assessments of the course.
@@ -63,9 +63,13 @@ A twitter "client" is just a third-party application for managing and reading tw
 
 What to do:
 - Sign up for a twitter client and either download-install-open or log into the web version of your twitter client.
+
 - When you log into it, notice that the basic layout concept is the "column." Since Twitter is a huge "stream," twitter clients allow you to break that huge stream into several mini-streams which you can organize according to your interests, tastes, and needs.
+
 - Look for an option to add a new column. In TweetDeck, this is easy and very nice (just look to the left-hand column and click "+ Add Column"). Add one column for "notifications" (aka "mentions" or "replies"). One column for "direct messages." And then add a column for a certain search term, and enter as the search term some keyword associated with your interests. If you're interested in what's going on with the Boycott-Divest-Sanction campaign being waged against the state of Israel, you might make add a new column for the search term "#BDS." The "#" in #BDS makes it a "hashtag", which is just a way for many tweeps to link their tweets to one semi-organized common thread easily searched by others.
+
 - Do this for at least 3 hashtags or search terms related to your fields of interest.
+
 - Notice that your twitter client is now a one-stop-shop for the most up-to-date information in the world regarding anything you're interested in.
 
 #### 4. An RSS reader
@@ -73,7 +77,9 @@ What to do:
 
 What to do:
 - Sign up and either download-install-open or log into the web version of your RSS reader.
+
 - Find and add at least 20 independent blogs related to your research interests. Use a similar strategy of Googling "best blogs on..." Feel free to add a few traditional news sources if you want, but avoid news sources you already encounter daily in your newspaper/television/radio reports. Most RSS readers, including Feedly, are as simple as using their search box to search for the name of a blog you like and they will automatically locate the RSS feed of that blog. You don't even need to know how that works on the back-end!
+
 - Notice that your RSS reader is now a one-stop-shop for all of the most interesting independent bloggers who are thinking and writing at the cutting edge of what you're interested in.
 
 #### 5. Tie everything together into one nice workspace (Google Chrome)
