@@ -1,16 +1,14 @@
 ## You're not surfing the net, you're drowning in it! A practicum for young researchers in the internet era
 
-[Overview]
+[Overview](#overview)   
+- [A note on anonymity](#a-note-on-anonymity)
 
-    - [A note on anonymity](#a-note-on-anonymity)
-
-[Details for setup](#details-for-setup)
-
-    - [1. A web browser (recommending Google Chrome)](#1-a-web-browser-recommending-google-chrome)
-    - [2. A blog](#2-a-blog)
-    - [3. A twitter account](#3-a-twitter-account)
-    - [4. A twitter client](#4-a-twitter-client)
-    - [5. Tie everything together into one nice workspace (Google Chrome)](#5-tie-everything-together-into-one-nice-workspace)
+[Details for setup](#details-for-setup)   
+- [1. A web browser (recommending Google Chrome)](#1-a-web-browser-recommending-google-chrome)   
+- [2. A blog](#2-a-blog)   
+- [3. A twitter account](#3-a-twitter-account)   
+- [4. A twitter client](#4-a-twitter-client)   
+- [5. Tie everything together into one nice workspace (Google Chrome)](#5-tie-everything-together-into-one-nice-workspace)   
 
 
 ### Overview
@@ -28,8 +26,7 @@ If you don't know what these things are, don't worry! They're all easy to learn 
 
 The course itself will be run with these tools. It's simple: Everything you do toward your research for this course, just do it on your blog and your twitter account! Using our twitter clients and RSS feeds, we'll also be following along with everyone else's progress, and you'll be asked to give each other support and feedback in blog comments and twitter replies. As we go, your progress will be tracked and assessed, and at the end your entire web output will be assessed alongside the more specific assessments of the course.
 
-#### A note on anonymity
-
+### A note on anonymity
 While you are invited and encouraged to submit everything via your blog, including your longer and more formal assignments, you are also welcome to keep your web presence anonymous if you prefer. Just make your blog and twitter username something unconnected to your real identity (but send me a private email so I know it's you). Anonymous bloggers and tweeters also have an illustrious history! Finally, the course will rely on a back-end system which collects and organizes your content to allow for anonymous grading.
 
 ### Details for setup
