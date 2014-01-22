@@ -14,7 +14,7 @@
 - [2. We will all blog about the development of our research](#2-we-will-all-blog-about-the-development-of-our-research)
 - [3. If you think you can neglect this and just accept the hit to your grade, here is why you are wrong](#3-if-you-think-you-can-neglect-this-and-just-accept-the-hit-to-your-grade-here-is-why-you-are-wrong)   
 
-[Why? A final note for the still skeptical](#why-a-final-note-for-the-still skeptical)
+[Why? A final note for the still skeptical](#why-a-final-note-for-the-still-skeptical)
 
 
 ### Overview
@@ -49,6 +49,7 @@ A blog, short for "weblog," is a simple web site where you post whatever you wan
 
 What to do:
 - Sign up with any major blogging platform
+
 - Call it anything you want, just use your real name as the author name or if you wish to remain anonymous use a pseudonym and email me privately to tell me what it is!
 
 #### 3. A twitter account
