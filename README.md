@@ -48,37 +48,33 @@ If any of this stuff intimidates you, then just start using Google Chrome. That 
 A blog, short for "weblog," is a simple web site where you post whatever you want and everything is kept organized for you chronologically. There are several free blogging "platforms" which basically do everything for you. For this course, any major blogging platform will do, including any blog you might already run. If you've never blogged and you're intimidated then I would recommend using Tumblr, which is very easy to use, stylish, and has a huge community of bloggers. Tumblr blogs tend toward shorter and quicker reads, photos, quotes, etc., and Tumblr in general encourages "reblogging" posts from other Tumblr blogs on your own. If you write more frequently or plan to blog more ambitiously in or after this course, you might want to select a platform that gives you more options and control over your content. Wordpress is perhaps the most popular and powerful platform, although it can be a little confusing and the free version puts ads on your posts. Typepad and Blogger are both perfectly good and commonly used competitors. You might also explore newer blogging platforms which seem to emphasize superior style and community engagement, such as Medium and Svbte. Really up to you.
 
 What to do:
-
-    - Sign up with any major blogging platform
-    - Call it anything you want, just use your real name as the author name or if you wish to remain anonymous use a pseudonym and email me privately to tell me what it is!
+- Sign up with any major blogging platform
+- Call it anything you want, just use your real name as the author name or if you wish to remain anonymous use a pseudonym and email me privately to tell me what it is!
 
 #### 3. A twitter account
 Pretty straightforward. Just sign up at twitter.com. The shorter the username, the better. First because you want people to remember it, but more importantly because each character takes up precious space inside tweets. You'll see.
 
 What to do:
-
-    - Just sign up for an account
-    - Follow at least 100 other twitter users. Here's how. Do a Google search for "best twitter accounts for" and then some subject area you're interested in and may want to research for your work in this course. So, examples would be: "best twitter accounts for middle east politics" or "best twitter accounts for analyzing media" or whatever. Look for lists of important tweeps (twitter people) already curated for you. Do this for a few different subject areas and just follow everyone you find. Avoid big news organizations like Financial Times or NBC or other such large corporate names (they're typically boring and late on most things). Individual journalists for these big names are often very good though. Ideally you really want to find individuals around the world and "on the ground" in interesting places who are experts on something or are just interesting folks working on interesting projects. These are the kinds of connections that make Twitter extremely interesting and powerful!
+- Just sign up for an account
+- Follow at least 100 other twitter users. Here's how. Do a Google search for "best twitter accounts for" and then some subject area you're interested in and may want to research for your work in this course. So, examples would be: "best twitter accounts for middle east politics" or "best twitter accounts for analyzing media" or whatever. Look for lists of important tweeps (twitter people) already curated for you. Do this for a few different subject areas and just follow everyone you find. Avoid big news organizations like Financial Times or NBC or other such large corporate names (they're typically boring and late on most things). Individual journalists for these big names are often very good though. Ideally you really want to find individuals around the world and "on the ground" in interesting places who are experts on something or are just interesting folks working on interesting projects. These are the kinds of connections that make Twitter extremely interesting and powerful!
 
 #### 4. A twitter client
 A twitter "client" is just a third-party application for managing and reading twitter feeds. Twitter itself is just a big huge worldwide "firehose" of millions of tweets per minute. A "client" refers to a special application that helps you manage this craziness. I recommend Tweetdeck, but there are a few other popular ones such as Tweetbot and Hootsuite. Feel free to play around with any of them, the key requirement is that it let you make multiple twitter feeds and organize them in one place.
 
 What to do:
-
-    - Sign up for a twitter client and either download-install-open or log into the web version of your twitter client.
-    - When you log into it, notice that the basic layout concept is the "column." Since Twitter is a huge "stream," twitter clients allow you to break that huge stream into several mini-streams which you can organize according to your interests, tastes, and needs.
-    - Look for an option to add a new column. In TweetDeck, this is easy and very nice (just look to the left-hand column and click "+ Add Column"). Add one column for "notifications" (aka "mentions" or "replies"). One column for "direct messages." And then add a column for a certain search term, and enter as the search term some keyword associated with your interests. If you're interested in what's going on with the Boycott-Divest-Sanction campaign being waged against the state of Israel, you might make add a new column for the search term "#BDS." The "#" in #BDS makes it a "hashtag", which is just a way for many tweeps to link their tweets to one semi-organized common thread easily searched by others.
-    - Do this for at least 3 hashtags or search terms related to your fields of interest.
-    - Notice that your twitter client is now a one-stop-shop for the most up-to-date information in the world regarding anything you're interested in.
+- Sign up for a twitter client and either download-install-open or log into the web version of your twitter client.
+- When you log into it, notice that the basic layout concept is the "column." Since Twitter is a huge "stream," twitter clients allow you to break that huge stream into several mini-streams which you can organize according to your interests, tastes, and needs.
+- Look for an option to add a new column. In TweetDeck, this is easy and very nice (just look to the left-hand column and click "+ Add Column"). Add one column for "notifications" (aka "mentions" or "replies"). One column for "direct messages." And then add a column for a certain search term, and enter as the search term some keyword associated with your interests. If you're interested in what's going on with the Boycott-Divest-Sanction campaign being waged against the state of Israel, you might make add a new column for the search term "#BDS." The "#" in #BDS makes it a "hashtag", which is just a way for many tweeps to link their tweets to one semi-organized common thread easily searched by others.
+- Do this for at least 3 hashtags or search terms related to your fields of interest.
+- Notice that your twitter client is now a one-stop-shop for the most up-to-date information in the world regarding anything you're interested in.
 
 #### 4. An RSS reader
 "RSS" stands for "Rich Site Summary" or "Really Simple Syndication", and it's just a simple protocol that turns websites into "feeds" so that readers can subscribe and recieve updates from all of their favorite websites all in one place. That one place is an RSS reader, which is basically just a big self-designed newspaper composed of all the websites you want to follow. Again, there are a few good ones out there, but I recommend Feedly.
 
 What to do:
-
-    - Sign up and either download-install-open or log into the web version of your RSS reader.
-    - Find and add at least 20 independent blogs related to your research interests. Use a similar strategy of Googling "best blogs on..." Feel free to add a few traditional news sources if you want, but avoid news sources you already encounter daily in your newspaper/television/radio reports. Most RSS readers, including Feedly, are as simple as using their search box to search for the name of a blog you like and they will automatically locate the RSS feed of that blog. You don't even need to know how that works on the back-end!
-    - Notice that your RSS reader is now a one-stop-shop for all of the most interesting independent bloggers who are thinking and writing at the cutting edge of what you're interested in.
+- Sign up and either download-install-open or log into the web version of your RSS reader.
+- Find and add at least 20 independent blogs related to your research interests. Use a similar strategy of Googling "best blogs on..." Feel free to add a few traditional news sources if you want, but avoid news sources you already encounter daily in your newspaper/television/radio reports. Most RSS readers, including Feedly, are as simple as using their search box to search for the name of a blog you like and they will automatically locate the RSS feed of that blog. You don't even need to know how that works on the back-end!
+- Notice that your RSS reader is now a one-stop-shop for all of the most interesting independent bloggers who are thinking and writing at the cutting edge of what you're interested in.
 
 #### 5. Tie everything together into one nice workspace (Google Chrome)
 One reason I recommend Google Chrome is because the aforementioned web services all have nice web apps designed to run inside Google Chrome. They are relatively light and quick, and they are quite cleverly integrated to make Chrome a very powerful dashboard for receiving and contributing to all these online conversations you're now entering.
