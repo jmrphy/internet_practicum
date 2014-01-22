@@ -1,15 +1,13 @@
 ## You're not surfing the net, you're drowning in it! A practicum for young researchers in the internet era
 
 [Overview](#overview)   
-[A note on anonymity](#a-note-on-anonymity)
-
+[A note on anonymity](#a-note-on-anonymity)   
 [Details for setup](#details-for-setup)   
 - [1. A web browser (recommending Google Chrome)](#1-a-web-browser-recommending-google-chrome)   
 - [2. A blog](#2-a-blog)   
 - [3. A twitter account](#3-a-twitter-account)   
 - [4. A twitter client](#4-a-twitter-client)   
-- [5. Tie everything together into one nice workspace (Google Chrome)](#5-tie-everything-together-into-one-nice-workspace-google-chrome)
-
+- [5. Tie everything together into one nice workspace (Google Chrome)](#5-tie-everything-together-into-one-nice-workspace-google-chrome)   
 [How we are going to use all these things](#how-we-are-going-to-use-all-these-things)
 - [1. We will all tweet on a class hashtag (to be announced)](#1-we-will-all-tweet-on-a-class-hashtag-to-be-announced)
 - [2. We will all blog about the development of our research](#2-we-will-all-blog-about-the-development-of-our-research)
