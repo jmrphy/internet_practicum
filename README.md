@@ -163,7 +163,7 @@ You should feel relaxed about this: you're encouraged to experiment. Of course, 
 
 ### Some role models
 
-If you feel like this is asking a lot from you, then let me introduce you to some people at the cutting edge of the internet research life. Some of these people do almost all of their research completely on the web, on a daily basis. Some of them keep huge long lab notebooks where their daily research efforts are recorded in real time; others even do their most personal note-taking and daily to-do lists online. All are prolific tweeters. Browse these folks and you'll realize writing one blog post and a few tweets every week is nothing!
+If you feel like this is asking a lot from you, then let me introduce you to some people at the cutting edge of the internet research life. Some of these people do almost all of their research completely on the web, on a daily basis. Some of them keep huge long lab notebooks where their daily research efforts are recorded in real time; others even do their most personal note-taking and daily to-do lists online. All are prolific tweeters. Browse these folks and you'll realize writing one blog post and a few tweets every week is only the beginning of this new world opening up for us as researchers.
 
 [Carl Boettiger](http://carlboettiger.info/2012/09/28/Welcome-to-my-lab-notebook.html) is a post-doc researcher who keeps a completely open online "lab notebook" for all of their past and present research in ecology. [@cboettig on Twitter.](https://twitter.com/cboettig)
 
