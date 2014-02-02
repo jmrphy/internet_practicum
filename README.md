@@ -18,6 +18,8 @@
 
 [Assessment](#assessment)
 
+[Some role models](#some-role-models)
+
 
 ### Overview
 
@@ -136,7 +138,7 @@ The world wide web is the only open public sphere we have left under global capi
 
 - Quantity - just how much have you embraced the web to learn and share?
 - Consistency - how consistently have you embraced the web to learn and share?
-- Contributing - how much have you given to your classmates and the world?
+- Contributing - how valuable have been the contributions you've given to your classmates and the world?
 
 A first class student will write a blog post at least once a week, every week, providing their classmates and the world with information and thoughts which are valuable and in some way related to your research. A first class student will probably tweet at least 20 times, and retweet experts about 10 times, each week. If this sounds like a lot, you'll quickly learn this is hardly anything: if you all really jump in with an open mind and find folks doing interesting stuff, you could easily find yourselves tweeting ~10 times per day. It's fun and hugely empowering (in terms of both learning and having voice) once you "get it." To fail this portion of the course will only be due to a complete lack of effort: students who don't bother to set up their web presence, students who barely share anything, students who barely ever reply to other classmates, etc. Between a complete lack of effort and those who fully embrace the internet research life outlined above, will be the range of marks between failure and first.
 
