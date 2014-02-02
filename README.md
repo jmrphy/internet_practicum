@@ -16,6 +16,8 @@
 
 [Why? A final note for the still skeptical](#why-a-final-note-for-the-still-skeptical)
 
+[Assessment](#assessment)
+
 
 ### Overview
 
@@ -104,8 +106,6 @@ What to do:
 
 ### How we are going to use all these things
 
-**In short, the percentage of your grade associated with the online component will be assessed by an end-of-term review of your web output through the semester.** The more actively you participate and contribute via your blogging and tweeting, the higher your grade will be. **Here's a nice catch, though: we will not be judging the "quality" of your web output.** This is to make you feel relaxed and encouraged to experiment; say and do whatever you're interested in regarding the issues and questions relevant to the course. Of course, as an adult human being you are responsible for whatever you say or do online, but your grade will only reflect *how much* you have shared your intellectual journey this semester with the world. The only exception is in your specific and direct interactions with classmates (commenting on other students' blogs, replying to other students tweets). In your direct interactions with other students you are expected to give the highest degree of respect and generosity precisely because this is a collective intellectual journey in which you are all allies. The lecturer(s) *will* judge the degree to which you were comradely with your classmates and factor this into your overall assessment. (Notice I don't say you have to be generous to the lecturer(s)! The whole point is to show you that the internet is a place of free learning, free expression, and mutual empowerment through organic affinities; so if you want to say a lecture was bad or my haircut was a disaster or you want to rally the other students to have me fired, you can do that and it won't be judged in your assessment!)
-
 #### 1. We will all tweet on a class hashtag (to be announced)
 Tweet any course-specific information or questions and include this hashtag. Make a column in your twitter client dedicated to all tweets using this hashtag, so you can easily see anyone else tweeting about the course. Respond and engage to others as constructively as possible. Tweet anything you come across that other students in the course might find interesting or valuable. If you have short questions about the course, tweet them using the class hashtag and you'll receive an answer from the lecturer(s) or a student who might know. The lecturer(s) will also tweet relevant course information but don't worry, it will only be in addition to the other, direct and regular communications with you.
 
@@ -130,7 +130,50 @@ If you don't have a twitter client and an RSS reader, and everything you know ab
 
 The world wide web is the only open public sphere we have left under global capitalism. The only place in the world where you can be whatever you want and say whatever you want without asking for permission, and actually be heard by someone somewhere. We can't wait for you to join us!
 
+### Assessment
 
+**In short, the percentage of your grade associated with the online component will be assessed by an end-of-term review of your web output through the semester.** You will be evaluated on three main criteria:
+
+- Quantity - just how much have you embraced the web to learn and share?
+- Consistency - how consistently have you embraced the web to learn and share?
+- Contributing - how much have you given to your classmates and the world?
+
+A first class student will write a blog post at least once a week, every week, providing their classmates and the world with information and thoughts which are valuable and in some way related to your research. A first class student will probably tweet at least 20 times, and retweet experts about 10 times, each week. If this sounds like a lot, you'll quickly learn this is hardly anything: if you all really jump in with an open mind and find folks doing interesting stuff, you could easily find yourselves tweeting ~10 times per day. It's fun and hugely empowering (in terms of both learning and having voice) once you "get it." To fail this portion of the course will only be due to a complete lack of effort: students who don't bother to set up their web presence, students who barely share anything, students who barely ever reply to other classmates, etc. Between a complete lack of effort and those who fully embrace the internet research life outlined above, will be the range of marks between failure and first.
+
+Also, "valuable" can be interpreted broadly, and you will not be especially judged on how "good" your content is, but simply whether it's contributing to a conversation or not. There are dozens of ways to "contribute," so don't worry too much and as long as you are trying to be productive or constructive in *some way* then trust your instincts, relax, and go with it. Just jump in and try to share and make connections in ways you find exciting and interesting. For instance, **examples of "contributing" include but are not limited to:**
+
+- A simple blog post recording the work you did that week toward your research project.
+- A post about something you learned or discovered in your research.
+- A post providing a list of useful links you've collected for your own purposes but which classmates and the world might benefit from.
+- A draft paragraph or even a whole draft essay of a real essay you're writing.
+- A thoughtful reflection on how your lecturers could do something better!
+- A post teaching or showing classmates and the world how to do something, especially something methodological you're focusing on!
+- A post responding to something you read or saw but which you'd like to critique or question.
+- A personal reflection on how you feel about your research (emotions are unfortunately banned from most "serious" research papers but a blog *is* an appropriate place for that; and it *is* valuable and meaningful because others will relate, and community is built in this way).
+- Provide constructive comments on others' blog posts.
+- Tweet anything at all interesting from your research journey.
+- Tweet replies to people asking questions you can answer.
+- Tweet constructive corrections to tweets which are mistaken, linking to *evidence.*
+- Retweet the tweets of experts or interesting individuals you are following as a researcher in their field but which your classmates and other followers would not see becuase they are not researchers in that field.
+- Blog and tweet about whatever *you* think is interesting or curious, jokes about research, poems about research, whatever! As long as it's not hurtful to any of your classmates, the point is to embrace the web as an open space where you can say whatever *you* want to. As long as you don't hurt anyone, the worst that can happen is nobody will care.
+
+You should feel relaxed about this: you're encouraged to experiment. Of course, as an adult human being you are responsible for whatever you say or do online, but your grade will only reflect the quanitity, consistency, and contributory value of your web presence--not any other specific quality or correctness. The only exception is in your specific and direct interactions with classmates (anything about any of your classmates, commenting on other students' blogs, replying to other students tweets, etc.). In your direct interactions with other students you are expected to give the highest degree of respect and generosity precisely because this is a collective intellectual journey in which you are all allies. The lecturer(s) *will* judge the degree to which you were comradely with your classmates because that's about "contributing." And notice I don't say you have to be generous to the lecturer(s)! The whole point is that the internet is a place of free learning, free expression, and mutual empowerment through organic affinities; so if you want to say a lecture was bad or my haircut was a disaster or you want to rally the other students to have me fired, you can do that and it won't be judged in your assessment!)
+
+### Some role models
+
+If you feel like this is asking a lot from you, then let me introduce you to some people at the cutting edge of the internet research life. Some of these people do almost all of their research completely on the web, on a daily basis. Some of them keep huge long lab notebooks where their daily research efforts are recorded in real time; others even do their most personal note-taking and daily to-do lists online. All are prolific tweeters. Browse these folks and you'll realize writing one blog post and a few tweets every week is nothing!
+
+[Carl Boettiger](http://carlboettiger.info/2012/09/28/Welcome-to-my-lab-notebook.html) is a post-doc researcher who keeps a completely open online "lab notebook" for all of their past and present research in ecology. [@cboettig on Twitter.](https://twitter.com/cboettig)
+
+[Benjamin Powell](http://www.teaching-difference.com/Ben/Benjamin_Powell/Writing.html) writes papers in public Google docs and blogs daily work notes.[@tremblebot on Twitter.](https://twitter.com/tremblebot)
+
+[Michelle Moravec](http://historyinthecity.wordpress.com/) is writing a whole book completely on a blog.[@ProfessMoravec on Twitter.](https://twitter.com/ProfessMoravec)
+
+[low end theory](http://www.lowendtheory.org/about) is a personal tumblr of an Ethnic Studies researcher, a good example of how academic research sharing can be personal, creative, and resistant to officialdom.[@touchfaith on Twitter.](https://twitter.com/touchfaith)
+
+[Jay Ulfelder](http://dartthrowingchimp.wordpress.com/) is a political scientist with an excellent blog and a model of rigorous, consistent, research blogging.[@jay_ulfelder on Twitter.](https://twitter.com/jay_ulfelder)
+
+[Marginal Revolution](http://marginalrevolution.com/) is the highly influential personal blog of two economists, a good example of very frequent, consistent offerings ranging from very formal and academic to just passing miscellany.[Tyler Cowen is @tylercowen on Twitter.](https://twitter.com/tylercowen)
 
 
 
