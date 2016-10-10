@@ -18,6 +18,8 @@
 
 [Assessment](#assessment)
 
+I will assess participation by tracking activity on the hashtag.
+
 [Some role models](#some-role-models)
 
 
@@ -114,15 +116,6 @@ Tweet any course-specific information or questions and include this hashtag. Mak
 #### 2. We will all blog about the development of our research
 The advances, as well as the trials and tribulations. Think of it as a lab notebook. Interpret that creatively, don't worry (remember you won't be judged for *what* your logging in this lab notebook, only the degree to which you really commit to doing it.) We will all read and, when the spirit moves us, respond to each others' blogs. The lecturer(s) will make a master list of all students' individual blogs and we will all keep each other's blogs in our RSS readers so it will be very quick and easy to regularly check in on each others progress.
 
-#### 3. If you think you can neglect this and just accept the hit to your grade, here is why you are wrong
-Alas, your specific formal assessments will also be submitted to us via your blogs and twitter, and it's the only way we'll accept them. In other words, regardless of how much this practicum is "worth" to your final grade, it is an absolute baseline requirement to even be capable of submitting your main course submissions. This means that setting yourself up according to this practicum is an absolute requirement, even though your overall web output throughout the course will only be assessed as much as the syllabus states.
-
-Specifically:
-
-- Each individual will post to their individual blog their individual assignments, and tweet out the blog post. You are totally encouraged to tweet your work at (@) whoever around the web you think might be interested. Just make sure at least one tweet to your blog post goes on the class hashtage!
-
-- If there's group work, only one individual needs to post the group work to their blog (although you're all welcome to) but then everyone in the group needs to tweet out the link to that blog post. And again, you are highly encouraged to tweet at (@) whoever might be interested in your work.
-
 ### Why? A final note for the still skeptical
 A basic fact is that if you don't have a blog and a twitter account, then you basically don't have any way to express yourself or communicate to the world. Think about that. You can wait until you graduate and hopefully obtain a presitigious position as a teacher or a lawyer or a diplomat, but *why wait?* On the internet, you don't have to wait for anything or anyone to simply become whoever you are, to find your people, to talk with whoever you want, and to do the work you want to do in the future *starting right now*. 
 
@@ -136,7 +129,7 @@ The world wide web is the only open public sphere we have left under global capi
 
 **In short, the percentage of your grade associated with the online component will be assessed by an end-of-term review of your web output through the semester.** You will only be marked for participation:
 
-A first class student will write a blog post *at least* once every two weeks, providing their classmates and the world with information and thoughts which are valuable and in some way related to their research around the themes of the module. But it's really up to you to interpret this creatively. As a minimum, try to tweet at least a few times per week, that's only twice each weekday! And not just re-tweets. To fail this portion of the course will only be due to a complete lack of effort: students who don't bother to try, students who barely share anything, etc.
+A first class student will write a blog post about once a week or once every two weeks, providing their classmates and the world with information and thoughts which are valuable and in some way related to their research around the themes of the module. But it's really up to you to interpret this creatively. As a minimum, try to tweet at least a few times per week, that's only twice each weekday! And not just re-tweets. To fail this portion of the course will only be due to a complete lack of effort: students who don't bother to try, students who barely share anything, etc.
 
 You will not be especially judged on how "good" your content is, but simply whether it's contributing to a conversation or not. There are dozens of ways to "contribute," so don't worry too much and as long as you are trying to be productive or constructive in *some way* then trust your instincts, relax, and go with it. Just jump in and try to share and make connections in ways you find exciting and interesting. For instance, **examples of "contributing" include but are not limited to:**
 
